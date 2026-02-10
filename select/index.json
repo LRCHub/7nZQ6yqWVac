@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ばっどくらい",
+  "base_artist": "NEE",
+  "createdAt": "2026-02-10T04:25:35.428887Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばっどくらい",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ばっどくらい_NEE.txt"
+    }
+  ]
+}
